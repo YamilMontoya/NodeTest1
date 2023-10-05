@@ -1,0 +1,25 @@
+{
+  "name": "nodet1",
+  "version": "1.0.0",
+  "description": "TestNode js 1",
+  "main": "NatMod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamilMontoya/NodeTest1.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "AitorMontoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamilMontoya/NodeTest1/issues"
+  },
+  "homepage": "https://github.com/YamilMontoya/NodeTest1#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
